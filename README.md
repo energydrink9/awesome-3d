@@ -4,6 +4,7 @@ AR/MR/VR is the future, and 3D model is the basics of all of them.
 # modeling software
 * [blender](https://www.blender.org/) cross-platform
 * [Dust3D](https://github.com/huxingyi/dust3d) cross-platform
+* [Prompt2CAD](https://prompt2cad.com/) browser-based AI CAD for turning text prompts into dimensioned parts, furniture, and prototypes; exports STEP, DXF, STL, OBJ, and GLB
 
 # library
 * [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) Swift; iOS
